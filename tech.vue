@@ -42,7 +42,14 @@
 
 <script>
 
-
+export default { 
+    name: "techSite"; 
+    data() { 
+        return{
+          audioSrc: ".mp3/koordinaten.mp3",
+        }
+    }
+}
   
 </script> 
 
