@@ -5,5 +5,11 @@ export default {
         audioElement.play();
         }
       },
-    
-}
+    stopSound(audioElement) { 
+      if (audioElement) { 
+          audioElement.pause();
+          audioElement.currentTime = 0; 
+        }
+      },
+    },
+ };
