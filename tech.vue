@@ -63,11 +63,7 @@ export default {
             audio.currentTime = 0; 
           }  
       },
-
-  }  
-
-
-
+    },
   }
   
 </script> 
