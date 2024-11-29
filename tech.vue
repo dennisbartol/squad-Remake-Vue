@@ -47,9 +47,21 @@ export default {
     data() { 
         return{
           audioSrc: ".mp3/koordinaten.mp3",
-        }
-    }
-}
+        };
+    },
+  methods: { 
+      playSound() {
+          const audio = this.$refs.audioRef; 
+          if (audio) { 
+            audio.play(); 
+          }
+      }
+
+  }  
+
+
+
+  }
   
 </script> 
 
