@@ -95,6 +95,37 @@ body {
   align-content: center;
 }
 
+p {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 400px;
+  height: 250px;
+  margin-left: 8px;
+  margin-top: 50px;
+  padding: 5px;
+  box-shadow: 5px 5px 11px #030303;
+}
 
+a:link,
+a:visited {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ab7b07;
+  font-size: 10pt;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #e8ac2a;
+  transition: 0.5s ease-in-out;
+}
+
+a:active {
+  color: #e8ac2a;
+}
+
+img {
+  padding-top: 24px;
+}
 
 </style>
