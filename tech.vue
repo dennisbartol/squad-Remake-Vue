@@ -84,6 +84,17 @@ body {
   align-items: center;
 }
 
+#container {
+  width: 740px;
+  height: 410px;
+  border-radius: 15px;
+  background-color: aliceblue;
+  background-image: url("./img/tech/tech.jpg");
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
 
 
 </style>
