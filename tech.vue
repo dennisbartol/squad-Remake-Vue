@@ -55,7 +55,14 @@ export default {
           if (audio) { 
             audio.play(); 
           }
-      }
+      },
+      stopSound() {
+          const audio = this.$refs.audioRef; 
+          if (audio) { 
+            audio.pause();
+            audio.currentTime = 0; 
+          }  
+      },
 
   }  
 
