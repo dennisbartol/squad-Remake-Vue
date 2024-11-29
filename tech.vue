@@ -69,6 +69,21 @@ export default {
 </script> 
 
 
+
 <style scoped>
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #030303;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 
 </style>
