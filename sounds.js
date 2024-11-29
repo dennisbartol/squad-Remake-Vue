@@ -4,6 +4,6 @@ export default {
       if (audioElement) {
         audioElement.play();
         }
-      }
-    }
+      },
+    
 }
