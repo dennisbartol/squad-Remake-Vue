@@ -68,9 +68,15 @@
           audio.play();
         }
       },
-
-      
-     }
+      stopSound() {
+        const audio = this.$refs.firstSound; 
+        if (audio) {
+          audio.pause();
+          audio.currentTime = 0; 
+        }
+      },        
+    },
+  };
 </script>
 
 
