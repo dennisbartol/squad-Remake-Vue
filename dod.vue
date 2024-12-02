@@ -82,4 +82,70 @@
 
 <style scoped>
 
+       body {
+            background-color: #030303;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            font-size: 0.9em;
+            width: 100%; 
+            min-height: 100vh; 
+            display: flex; 
+            justify-content: center; 
+            /* align-items: center; */
+            background-image: url('./img/dod/dod.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+        }
+
+        a {
+            color: #FFFFFF;
+            font-family: Arial, sans-serif;
+            
+            font-size: 1em; 
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #E8AC2A;
+            transition: 0.5s ease-in-out;
+        }
+
+        #container { 
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        flex-direction: column; 
+        width: 750px; 
+        max-width: 80%;
+        height: 480px; 
+        /* border-radius: 15px;*/
+        color: #f1f1f1; 
+        /* background-color: rgba(0, 0, 0, 0.8);*/
+        }
+        
+
+       
+        #top { 
+            background-color: #030303;
+            height: 100px; 
+            width: 100%; 
+            display: flex; 
+            justify-content: center;
+            align-items: center;
+            line-height: 0;
+            
+        }
+
+        #content { 
+            font-size: 1em; 
+            background-color: #413927;
+            padding-left: 1em; 
+            padding-right: 1em; 
+            border-left: 1px solid #000000; 
+            border-right: 1px solid #000000; 
+            border-bottom: 10px solid #000000; 
+        }
+  
 </style
