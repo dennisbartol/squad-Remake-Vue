@@ -81,8 +81,7 @@
 
 
 <style scoped>
-
-       body {
+      body {
             background-color: #030303;
             margin: 0;
             padding: 0;
@@ -124,9 +123,7 @@
         color: #f1f1f1; 
         /* background-color: rgba(0, 0, 0, 0.8);*/
         }
-        
-
-       
+     
         #top { 
             background-color: #030303;
             height: 100px; 
@@ -148,4 +145,4 @@
             border-bottom: 10px solid #000000; 
         }
   
-</style
+</style>
