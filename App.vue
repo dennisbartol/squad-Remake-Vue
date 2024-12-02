@@ -3,11 +3,7 @@
 </template>
 
 <style>
- /* Global Styles */
-
-body { 
-  background-color: #030303; 
-}
+ /* Global Styles - Toch maar een css bestand aangemaakt 02/12. */
 </style>
 
 
