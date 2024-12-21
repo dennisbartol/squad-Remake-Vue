@@ -2,6 +2,7 @@
   <div class="container">
     <div class="content">
       <div class="header">Join the [DonD] clan</div>
+      
       <p>
         So you heard of the <span class="highlight">[DonD] Clan</span> and want in? Then read the following carefully:
       </p>
@@ -16,6 +17,14 @@
       <p>
         When <span class="highlight">You</span> believe you have what it takes, click on our [DonD] leaflet below.
       </p>
+
+      <div class="join-button">
+        <a href="joinform.htm">
+          <img src="./img/join/join2.gif" alt="Join the [DonD] Clan">
+        </a>
+      </div>
+      <div class="footer">Ready?</div>
+    </div>
     </div>
   </div>
 </template>
