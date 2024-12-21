@@ -10,6 +10,7 @@
     stopSound() {
       const audio = this.$refs.audio; 
       audio.pause();
+      audio.currentTime = 0;
     }
    }
  }
