@@ -3,6 +3,7 @@
 
 <script>
  expot default {
+   name: "JoinDonDClan", 
    methods: { 
      playSound() {
      this.$refs.audio.play();
