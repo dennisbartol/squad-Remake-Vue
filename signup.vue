@@ -14,7 +14,7 @@
       audio.currentTime = 0;
     }
    }
- }
+ };
 </script>
 
 <style>
