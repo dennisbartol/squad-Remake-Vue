@@ -2,6 +2,17 @@
 </template>
 
 <script>
+ expot default {
+   methods: { 
+     playSound() {
+     this.$refs.audio.play();
+     },
+    stopSound() {
+      const audio = this.$refs.audio; 
+      audio.pause();
+    }
+   }
+ }
 </script>
 
 <style>
