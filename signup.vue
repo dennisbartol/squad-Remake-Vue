@@ -47,7 +47,7 @@
 </template>
 
 <script>
- expot default {
+ export default {
    name: "JoinDonDClan", 
    methods: { 
      playSound() {
