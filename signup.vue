@@ -24,7 +24,22 @@
         </a>
       </div>
       <div class="footer">Ready?</div>
-    </div>
+      </div>
+
+      <div class="background-image">
+      <a href="target.htm">
+        <img src="./img/back.gif" alt="Back">
+      </a>
+      <div id="block">
+        <img src="./img/music1.gif" alt="Music Icon">
+      </div>
+      <a href="javascript:void(0)" @click="playSound">
+        <img src="./img/music2.gif" alt="Play Sound">
+      </a>
+      <a href="javascript:void(0)" @click="stopSound">
+        <img src="./img/music4.gif" alt="Stop Sound">
+      </a>
+    
     </div>
   </div>
 </template>
