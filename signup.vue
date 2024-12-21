@@ -1,4 +1,23 @@
 <template>
+  <div class="container">
+    <div class="content">
+      <div class="header">Join the [DonD] clan</div>
+      <p>
+        So you heard of the <span class="highlight">[DonD] Clan</span> and want in? Then read the following carefully:
+      </p>
+      <div class="qualifications">
+        <p>&#8226; Skill</p>
+        <p>&#8226; Matureness</p>
+        <p>&#8226; Active duty</p>
+        <p>&#8226; Orders to be followed (when necessary)</p>
+        <p>&#8226; You live in The Netherlands</p>
+        <p>&#8226; You must be over 18</p>
+      </div>
+      <p>
+        When <span class="highlight">You</span> believe you have what it takes, click on our [DonD] leaflet below.
+      </p>
+    </div>
+  </div>
 </template>
 
 <script>
