@@ -42,6 +42,8 @@
     
     </div>
   </div>
+
+  <audio ref="audio" src="./mp3/soldierusa.mp3" loop autoplay></audio>
 </template>
 
 <script>
