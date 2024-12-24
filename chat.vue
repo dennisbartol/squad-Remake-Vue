@@ -32,7 +32,13 @@ export default {
           nickname: "", 
         };
       },
-
+    methods: {
+      send() {
+        if (this.nickname) {
+          alert('');
+        
+      }
+    }
 
 }
 
