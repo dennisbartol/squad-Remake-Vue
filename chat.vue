@@ -6,6 +6,10 @@
         <br>&nbsp;<br>
         We will redirect you to our <a target="_blank" href="http://www.mirc.com">Mirc</a> channel (#dond) which is located at <a target="_blank" href="http://www.quakenet.org">www.quakenet.org</a>.
 
+        <form @submit.prevent="send">
+          <h4>
+            &nbsp;&nbsp; Your Nick:</br>
+          </h4>
       </div>
     </div>
   </div>
