@@ -13,7 +13,10 @@
           <input v-model="nickname" type="text" size="14" placeholder="Enter your nickname">
           <input type="submit" value="Enter Our Chat">
         </form>
-        
+
+        <div id="back">
+          <a href="target.htm"><img border="0" src="./img/back.gif" alt="Back"></a>
+        </div>
       </div>
     </div>
   </div>
