@@ -35,14 +35,12 @@ export default {
     methods: {
       send() {
         if (this.nickname) {
-          alert('');
-        
-      }
-    }
-
-}
-
-  
+          alert(`Redirecting ${this.nickname} to the chat...`); 
+      } else {
+          alert("Please enter a nickname."; 
+    },
+  },
+};
 </script>
 
 
