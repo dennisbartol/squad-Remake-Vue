@@ -10,6 +10,10 @@
           <h4>
             &nbsp;&nbsp; Your Nick:</br>
           </h4>
+          <input v-model="nickname" type="text" size="14" placeholder="Enter your nickname">
+          <input type="submit" value="Enter Our Chat">
+        </form>
+        
       </div>
     </div>
   </div>
