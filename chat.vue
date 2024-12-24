@@ -26,6 +26,12 @@
 
 <script>
 export default {
+    name: "ChatApp", 
+      data() {
+        return {
+          nickname: "", 
+        };
+      },
 
 
 }
