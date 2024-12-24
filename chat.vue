@@ -1,6 +1,14 @@
 <template>
+  <div id="app">
+    <div id="main-content">
+      <div class="container">
+         Our chatroom will be activated as soon as you fill out a nickname, and enter it with the button below. 
+        <br>&nbsp;<br>
+        We will redirect you to our <a target="_blank" href="http://www.mirc.com">Mirc</a> channel (#dond) which is located at <a target="_blank" href="http://www.quakenet.org">www.quakenet.org</a>.
 
-  
+      </div>
+    </div>
+  </div>
 </template>
 
 
