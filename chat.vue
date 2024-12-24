@@ -6,8 +6,12 @@
 
 
 <script>
+export default {
 
 
+}
+
+  
 </script>
 
 
