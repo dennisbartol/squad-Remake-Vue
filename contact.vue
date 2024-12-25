@@ -7,8 +7,9 @@
     name: "ContactPage", 
     data() {
        return {
-          
-
+          contactLinks: {
+            matches: "mailto:xxx@aaa.com", 
+            webmaster: "mailto:denbar@denbar.site",
        },
     }
   }
