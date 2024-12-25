@@ -4,7 +4,13 @@
 
 <script>
   export default { 
+    name: "ContactPage", 
+    data() {
+       return {
+          
 
+       },
+    }
   }
 </script>
 
