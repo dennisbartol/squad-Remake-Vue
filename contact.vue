@@ -6,8 +6,12 @@
         Matches/Recruitment: <a :href="contactLinks.matches">[DonD]Alien</a><br>
         Webmaster: <a :href="contactLinks.webmaster">[DonD]Animal</a>
         </p>
-
       </div>
+        <img :src="contactGraphic" alt="Contact graphic">
+      <div class="back-link">
+          <a :href="backLink">
+            <img :src="backImage" alt="Back">
+          </a>
     </div>
 </template>
 
