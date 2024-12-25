@@ -1,6 +1,11 @@
 <template>
     <div class="container">
       <div class="content">
+        <p>
+        <b>If you want to contact us, do so through our following members:</b> &nbsp;<br>
+        Matches/Recruitment: <a :href="contactLinks.matches">[DonD]Alien</a><br>
+        Webmaster: <a :href="contactLinks.webmaster">[DonD]Animal</a>
+        </p>
 
       </div>
     </div>
