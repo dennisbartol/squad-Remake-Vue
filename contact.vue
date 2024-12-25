@@ -12,6 +12,7 @@
           <a :href="backLink">
             <img :src="backImage" alt="Back">
           </a>
+       </div>   
     </div>
 </template>
 
