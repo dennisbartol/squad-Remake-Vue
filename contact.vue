@@ -20,8 +20,12 @@
             matches: "mailto:xxx@aaa.com", 
             webmaster: "mailto:denbar@denbar.site",
        },
-    }
-  }
+           contactGraphic: "./img/contact/contactcgi.gif",
+           backImagE: "./img/back.gif", 
+           backLink: "target.htm", 
+        };
+    },
+  };
 </script>
 
 <style scoped>
