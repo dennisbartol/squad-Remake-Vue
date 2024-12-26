@@ -1,3 +1,5 @@
+<!-- I might still ditch the pop-up windows altogether --> 
+
 <template>
   <div class="container">
     <div class="content">
