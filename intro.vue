@@ -19,6 +19,31 @@
 </template>
 
 <script>
+  import { ref, onMounted } from "vue";
+
+export default {
+  name: "DonDClan",
+  setup() {
+    const resolutionText = ref("");
+
+    const launchSDA = () => {
+      window.open(
+        "target.htm",
+        "tart",
+        "height=436,width=760,toolbar=0,directories=0,status=0,resizable=0,location=0,scrollbars=0"
+      );
+    };
+
+    onMounted(() => {
+      resolutionText.value = `Your current resolution is ${screen.width} x ${screen.height}`;
+    });
+
+    return {
+      resolutionText,
+      launchSDA,
+    };
+  },
+};
 </script>
 
 <style scoped>
