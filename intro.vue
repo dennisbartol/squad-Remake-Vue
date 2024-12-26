@@ -1,5 +1,22 @@
 <template>
-  </template>
+  <div class="container">
+    <div class="content">
+      <!-- Link with JavaScript action -->
+      <img
+        src="./img/enter.gif"
+        alt="Enter"
+        class="link-img"
+        @click="launchSDA"
+      />
+    </div>
+
+    <!-- Footer Information -->
+    <div class="footer-text">
+      &copy; Design by <a href="http://www.denbar.site">[DonD]Animal</a> &bull;
+      Optimized for a resolution of 800 x 600 or greater &bull; {{ resolutionText }}
+    </div>
+  </div>
+</template>
 
 <script>
 </script>
