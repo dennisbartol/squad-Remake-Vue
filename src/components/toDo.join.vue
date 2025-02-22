@@ -3,7 +3,7 @@
 
 
 
-	<a href="target.htm" target="target">
+	<a href="target.vue" target="target">
 	  <img src="./img/back.gif" alt="Back" border="0" />
 	</a>
 	<img src="./img/music1.gif" alt="Music" />
