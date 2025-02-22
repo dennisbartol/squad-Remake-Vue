@@ -1,4 +1,20 @@
 <template>
+
+
+
+
+	<a href="target.htm" target="target">
+	  <img src="./img/back.gif" alt="Back" border="0" />
+	</a>
+	<img src="./img/music1.gif" alt="Music" />
+	<a @click.prevent="playSound">
+	  <img src="./img/music2.gif" alt="Play Music" border="0" />
+	</a>
+	<a @click.prevent="stopSound">
+	  <img src="./img/music4.gif" alt="Stop Music" border="0" />
+	</a>
+	
+	<audio ref="audioRef" :src="audioSrc" loop autoplay></audio>
 </template>
 
 <script>
