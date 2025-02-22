@@ -19,7 +19,7 @@
       </p>
 
       <div class="join-button">
-        <a href="joinform.htm">
+        <a href="joinform.vue">
           <img src="./img/join/join2.gif" alt="Join the [DonD] Clan">
         </a>
       </div>
@@ -27,7 +27,7 @@
       </div>
 
       <div class="background-image">
-      <a href="target.htm">
+      <a href="target.vue">
         <img src="./img/back.gif" alt="Back">
       </a>
       <div id="block">
