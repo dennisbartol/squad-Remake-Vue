@@ -3,7 +3,7 @@
     <div id="top">
         <img src="./img/dod/dayofnodefeat.gif" alt="Day of Defeat" />
         <br />
-      <a href="target.htm">
+      <a href="target.vue">
         <img src="./img/back.gif" alt="Back" />
       </a>
       <br />
