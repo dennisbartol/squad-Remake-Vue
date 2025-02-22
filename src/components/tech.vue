@@ -11,12 +11,12 @@
         <br />
         &nbsp;<br />
         But what to think of some nice
-        <a href="commands2.htm">Server Commands</a> brought to you by Alien, or
+        <a href="commands2.vue">Server Commands</a> brought to you by Alien, or
         what about a protest and a solution to
-        <a href="weapons.htm">Low Pingers</a>?
+        <a href="weapons.vue">Low Pingers</a>?
         <br />
         &nbsp;<br />
-        <a href="downloads.htm">Downloads</a>? Yep, on this site too! Skins,
+        <a href="downloads.vue">Downloads</a>? Yep, on this site too! Skins,
         maps, you name it... all there!
         &nbsp;</br>
         <br />
