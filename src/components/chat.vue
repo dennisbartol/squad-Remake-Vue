@@ -15,7 +15,7 @@
         </form>
 
         <div id="back">
-          <a href="target.htm"><img border="0" src="./img/back.gif" alt="Back"></a>
+          <a href="target.vue"><img border="0" src="./img/back.gif" alt="Back"></a>
         </div>
       </div>
     </div>
