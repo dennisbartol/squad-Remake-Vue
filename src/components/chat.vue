@@ -15,7 +15,9 @@
         </form>
 
         <div id="back">
-          <a href="target.vue"><img border="0" src="./img/back.gif" alt="Back"></a>
+           <router-link to="/target">
+          <img border="0" src="./img/back.gif" alt="Back">
+           </router-link>
         </div>
       </div>
     </div>
