@@ -28,9 +28,9 @@
       </div>
 
       <div class="background-image">
-      <a href="target.vue">
+     <router-link to="/target">
         <img src="./img/back.gif" alt="Back">
-      </a>
+      </router-link>
       <div id="block">
         <img src="./img/music1.gif" alt="Music Icon">
       </div>
