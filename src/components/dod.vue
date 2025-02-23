@@ -3,9 +3,10 @@
     <div id="top">
         <img src="./img/dod/dayofnodefeat.gif" alt="Day of Defeat" />
         <br />
-      <a href="target.vue">
+      <router-link to="/target">
+      <!-- <a href="target.vue"> --> 
         <img src="./img/back.gif" alt="Back" />
-      </a>
+      </router-link>
       <br />
       <img src=/img/music1.gif" alt="Music Note" />
       <a @click="playSound">
