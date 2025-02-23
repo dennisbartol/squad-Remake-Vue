@@ -19,9 +19,10 @@
       </p>
 
       <div class="join-button">
-        <a href="joinform.vue">
+        <router-link to="/joinform">
+        <!-- <a href="joinform.vue"> --> 
           <img src="./img/join/join2.gif" alt="Join the [DonD] Clan">
-        </a>
+        </router-link>
       </div>
       <div class="footer">Ready?</div>
       </div>
