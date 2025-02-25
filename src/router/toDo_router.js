@@ -10,6 +10,9 @@ import  from '@components/.vue';
 
 const routes = [ 
   { path: '/', component: target }, // target, home
+  { path: '/', component: chat }, 
+  { path: '/', component: contact }, 
+  { path: '/', component: dod }, 
   // { path: '/', component: }, 
 ];
 
