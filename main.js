@@ -6,4 +6,5 @@ import './styles/globalstyles.css';
 
 const app = createApp(App);
 app.mixin(audioMixin); 
+app.use(router); 
 app.mount("#app");
