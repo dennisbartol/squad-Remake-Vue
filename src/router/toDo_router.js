@@ -11,7 +11,7 @@ import  from '@components/.vue';
 const routes = [ 
   { path: '/', component: Home }, // target
   // { path: '/', component: }, 
-  ];
+];
 
 const router = createRouter({
   history: createWebHistory(),
