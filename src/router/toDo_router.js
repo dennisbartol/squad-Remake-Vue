@@ -6,3 +6,9 @@ import dod from '@components/dod.vue';
 import  from '@components/.vue';
 import  from '@components/.vue';
 import  from '@components/.vue';
+
+
+const routes = [ 
+  { path: '/', component: Home }, // target
+  // { path: '/', component: }, 
+  ];
