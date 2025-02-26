@@ -4,7 +4,7 @@
 </template>
 
 <script>
-  import { useHead } from '@vueuse/head'
+
 
   useHead({
 	title: '[DonD] - Day of no Defeat, gaming group', 
