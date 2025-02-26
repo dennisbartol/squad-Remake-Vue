@@ -5,6 +5,7 @@ User-agent: FacebookExternalHit
 User-agent: Googlebot
 User-agent: GPTBot
 User-agent: Claude-Web
+User-agent: Yandex
 
 Disallow: /admin
           /private
