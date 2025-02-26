@@ -1,12 +1,10 @@
 // 
 
-User-agent: *
-User-agent:
-User-agent:
-User-agent:
-User-agent:
-User-agent:
-
+User-agent: Bingbot
+User-agent: FacebookExternalHit
+User-agent: Googlebot
+User-agent: GPTBot
+User-agent: Claude-Web
 
 Disallow: /admin
           /private
