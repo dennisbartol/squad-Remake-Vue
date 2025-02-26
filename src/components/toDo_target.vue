@@ -10,7 +10,7 @@ import { useHead } from '@vueuse/head'
 	title: '[DonD] - Day of no Defeat, gaming group', 
 	meta: [
 	  { name: 'description', content: '' },
-	  { name: 'keywords', content: '' },
+	  { name: 'keywords', content: 'dod, day of defeat, clan, war, wwii, community, dutch, dayofdefeat' },
 	     ]
      });
 	
