@@ -10,5 +10,6 @@ const app = createApp(App);
 const head = createHead();
 
 app.mixin(audioMixin); 
+app.use(head);
 app.use(router); 
 app.mount("#app");
