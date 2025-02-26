@@ -4,6 +4,16 @@
 </template>
 
 <script>
+  import { useHead } from '@vueuse/core'
+
+  useHead(
+	title: '[DonD] - Day of no Defeat, gaming group', 
+	meta: [
+	  { name: 'description', content: '' },
+	  { name: 'keywords', content: '' },
+	],
+     });
+	
   export default { 
     methods: { 
       playSound() {
