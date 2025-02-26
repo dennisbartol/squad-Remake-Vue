@@ -8,5 +8,5 @@ User-agent: Claude-Web
 User-agent: Yandex
 
 Disallow: /admin
-          /private
-          /*?*       // Disallows URL parameters
+Disallow: /private
+Disallow: /*?*       // Disallows URL parameters
