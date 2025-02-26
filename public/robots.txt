@@ -4,3 +4,4 @@ User-agent: *
 Disallow:
 
 Disallow: /admin
+          /private
