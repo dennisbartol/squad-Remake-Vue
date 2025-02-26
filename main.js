@@ -7,6 +7,8 @@ import './styles/globalstyles.css';
 
 
 const app = createApp(App);
+const head = createHead();
+
 app.mixin(audioMixin); 
 app.use(router); 
 app.mount("#app");
