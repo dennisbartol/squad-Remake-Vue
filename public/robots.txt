@@ -1,4 +1,4 @@
-// 
+// Vue and Nuxt 
 
 User-agent: Bingbot
 User-agent: FacebookExternalHit
