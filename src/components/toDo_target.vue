@@ -11,6 +11,7 @@ import { useHead } from '@vueuse/head'
 	meta: [
 	  { name: 'description', content: '' },
 	  { name: 'keywords', content: 'dod, day of defeat, clan, war, wwii, community, dutch, dayofdefeat' },
+	  { name: 'author', content: 'DenBar, http://www.denbar.site' },
 	     ]
      });
 	
