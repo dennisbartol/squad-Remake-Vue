@@ -11,7 +11,7 @@
 	meta: [
 	  { name: 'description', content: '' },
 	  { name: 'keywords', content: '' },
-	     ],
+	     ]
      }),
 	
   export default { 
