@@ -8,3 +8,4 @@ User-agent: Claude-Web
 
 Disallow: /admin
           /private
+          /*?*       // Disallows URL parameters
