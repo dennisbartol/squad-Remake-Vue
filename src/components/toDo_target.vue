@@ -6,7 +6,7 @@
 <script>
   import { useHead } from '@vueuse/core'
 
-  useHead(
+  useHead({
 	title: '[DonD] - Day of no Defeat, gaming group', 
 	meta: [
 	  { name: 'description', content: '' },
